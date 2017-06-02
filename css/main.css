@@ -1,0 +1,64 @@
+@import "footer.css"
+@import "clients.css"
+/*@import "play.css"*/
+@media (max-width: 700px) 
+{ 
+  
+	.container-bac{
+
+		min-height: 1200px;
+	    width: 100%;
+	    background: url(../img/03.jpg)
+	}
+
+ }
+ .navbar{
+	background-color: #eee;
+	position: relative;
+	min-height: 70px;
+	margin-bottom: 0px;
+	border: 1px solid transparent;
+}
+.header-img{
+	height: 100%;
+	width: 100%;
+	margin : 0 auto;
+	color: red;
+}
+.container-pad{
+	margin-top: 100px;
+	border-top-style:outset;
+	border-bottom-style:inset;
+	padding: 50px 80px;
+}
+.container-bac{
+
+	min-height: 400px;
+    width: 100%;
+    background: url(../img/03.jpg)
+}
+.bac-i{
+	background: #fff; 
+	width: 100%; 
+	height: 150px; 
+	padding:10px auto;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.clients-a{
+	display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    text-align: center;
+}
+.question-row{
+	background: #eee; 
+	width: 100%; 
+	height: 100%; 
+	padding:10px auto;
+	padding: 10px;
+	margin-top: 10px;
+}
